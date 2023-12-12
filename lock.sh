@@ -1,2 +1,2 @@
 #! /bin/sh
-loginctl lock-screen
+loginctl lock-session
