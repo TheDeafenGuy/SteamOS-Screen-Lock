@@ -6,6 +6,6 @@ In SteamOS desktop mode, by default, there is no button to lock the screen. Alth
 
 Warning: You will need to set a password for the Desktop Mode user before you use my script!
 
-To acomplish this, open Konsole and type: "passwd <PASSWORD HERE>"
+To acomplish this, open Konsole and type: "passwd (PASSWORD HERE)"
 
 You can now use the lock.sh script that I am providing.
