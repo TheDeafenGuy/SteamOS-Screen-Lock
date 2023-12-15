@@ -8,4 +8,6 @@ Warning: You will need to set a password for the Desktop Mode user before you us
 
 To acomplish this, open Konsole and type: "passwd (PASSWORD HERE)"
 
+Be sure to write down the password you just set, as it may come in handy in the future.
+
 You can now use the lock.sh script that I am providing.
