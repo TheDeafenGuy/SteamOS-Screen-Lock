@@ -10,4 +10,7 @@ To acomplish this, open Konsole and run the command "passwd" followed by the pas
 
 Be sure to write down the password you just set, as it may come in handy in the future.
 
+Also, you will need to make the script executable.
+This can be done by opening Konsole and running the following command: chmod +x [INSERT SCRIPT LOCATION HERE]
+
 You can now use the lock.sh script that I am providing.
