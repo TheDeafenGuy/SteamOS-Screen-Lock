@@ -1,5 +1,5 @@
 # SteamOS-Screen-Lock
-Script to lock SteamOS desktop mode.
+Application to lock SteamOS desktop mode.
 
 
 In SteamOS desktop mode, by default, there is no button to lock the screen. Although there is no button, it is still possible to lock the screen. The application I have created runs the command to lock the desktop, so now you can lock the desktop if you wish to do so. If you wish to customize the lock screen, open settings and go to Workspace Behavior -> Screen Locking and then click on appearance. From there, you can set the background that appears when on the lock screen.
