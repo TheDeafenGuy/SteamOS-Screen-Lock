@@ -1,0 +1,17 @@
+[Desktop Entry]
+Comment[en_US]=
+Comment=
+Exec=loginctl lock-session
+GenericName[en_US]=An application to lock the desktop.
+GenericName=
+Icon=kdenlive-lock
+MimeType=
+Name[en_US]=Lock
+Name=Lock
+Path=
+StartupNotify=false
+Terminal=true
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
